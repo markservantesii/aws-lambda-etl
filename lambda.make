@@ -32,8 +32,6 @@ $(DIRS):
 directories: $(DIRS)
 
 
-
-
 # ======== LAMBDA PACKAGES and LAYERS RULES ===========
 
 # rules for creating lambdas
